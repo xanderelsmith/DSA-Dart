@@ -90,14 +90,3 @@ We welcome contributions to this project! If you'd like to add a new data struct
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-**## Contact**
-
-Feel free to create issues or discussions on the project's GitHub page if you have questions or feedback.
-
-**Additional Tips:**
-
-- Consider adding badges (e.g., for code coverage, build status) to your README using services like [https://shields.io/](https://shields.io/).
-- Include a `CONTRIBUTING.md` file with detailed contribution guidelines.
-- Create a `LICENSE` file to specify the license under which you distribute your code.
-
-I hope this comprehensive README structure helps you create a valuable resource for the developer community!
